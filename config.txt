@@ -13,58 +13,58 @@ setPVTMode, Static
 setPVTMode, , StandAlone
 setMultipathMitigation, off
 setMultipathMitigation, , off
-setSmoothingInterval, GPSL1CA, 60
-setSmoothingInterval, GPSL2PY, 60
-setSmoothingInterval, GPSL2C, 60
-setSmoothingInterval, GPSL5, 60
-setSmoothingInterval, GLOL1CA, 60
-setSmoothingInterval, GLOL2P, 60
-setSmoothingInterval, GLOL2CA, 60
-setSmoothingInterval, GLOL3, 60
-setSmoothingInterval, GALL1BC, 60
-setSmoothingInterval, GALE6BC, 60
-setSmoothingInterval, GALE5a, 60
-setSmoothingInterval, GALE5b, 60
-setSmoothingInterval, GALE5, 60
-setSmoothingInterval, GEOL1, 60
-setSmoothingInterval, GEOL5, 60
-setSmoothingInterval, BDSB1I, 60
-setSmoothingInterval, BDSB2I, 60
-setSmoothingInterval, BDSB3I, 60
-setSmoothingInterval, BDSB1C, 60
-setSmoothingInterval, BDSB2a, 60
-setSmoothingInterval, BDSB2b, 60
-setSmoothingInterval, QZSL1CA, 60
-setSmoothingInterval, QZSL2C, 60
-setSmoothingInterval, QZSL5, 60
-setSmoothingInterval, QZSL1CB, 60
-setSmoothingInterval, NAVICL5, 60
-setSmoothingInterval, GPSL1CA, , 60
-setSmoothingInterval, GPSL2PY, , 60
-setSmoothingInterval, GPSL2C, , 60
-setSmoothingInterval, GPSL5, , 60
-setSmoothingInterval, GLOL1CA, , 60
-setSmoothingInterval, GLOL2P, , 60
-setSmoothingInterval, GLOL2CA, , 60
-setSmoothingInterval, GLOL3, , 60
-setSmoothingInterval, GALL1BC, , 60
-setSmoothingInterval, GALE6BC, , 60
-setSmoothingInterval, GALE5a, , 60
-setSmoothingInterval, GALE5b, , 60
-setSmoothingInterval, GALE5, , 60
-setSmoothingInterval, GEOL1, , 60
-setSmoothingInterval, GEOL5, , 60
-setSmoothingInterval, BDSB1I, , 60
-setSmoothingInterval, BDSB2I, , 60
-setSmoothingInterval, BDSB3I, , 60
-setSmoothingInterval, BDSB1C, , 60
-setSmoothingInterval, BDSB2a, , 60
-setSmoothingInterval, BDSB2b, , 60
-setSmoothingInterval, QZSL1CA, , 60
-setSmoothingInterval, QZSL2C, , 60
-setSmoothingInterval, QZSL5, , 60
-setSmoothingInterval, QZSL1CB, , 60
-setSmoothingInterval, NAVICL5, , 60
+setSmoothingInterval, GPSL1CA, 300
+setSmoothingInterval, GPSL2PY, 300
+setSmoothingInterval, GPSL2C, 300
+setSmoothingInterval, GPSL5, 300
+setSmoothingInterval, GLOL1CA, 300
+setSmoothingInterval, GLOL2P, 300
+setSmoothingInterval, GLOL2CA, 300
+setSmoothingInterval, GLOL3, 300
+setSmoothingInterval, GALL1BC, 300
+setSmoothingInterval, GALE6BC, 300
+setSmoothingInterval, GALE5a, 300
+setSmoothingInterval, GALE5b, 300
+setSmoothingInterval, GALE5, 300
+setSmoothingInterval, GEOL1, 300
+setSmoothingInterval, GEOL5, 300
+setSmoothingInterval, BDSB1I, 300
+setSmoothingInterval, BDSB2I, 300
+setSmoothingInterval, BDSB3I, 300
+setSmoothingInterval, BDSB1C, 300
+setSmoothingInterval, BDSB2a, 300
+setSmoothingInterval, BDSB2b, 300
+setSmoothingInterval, QZSL1CA, 300
+setSmoothingInterval, QZSL2C, 300
+setSmoothingInterval, QZSL5, 300
+setSmoothingInterval, QZSL1CB, 300
+setSmoothingInterval, NAVICL5, 300
+setSmoothingInterval, GPSL1CA, , 30
+setSmoothingInterval, GPSL2PY, , 30
+setSmoothingInterval, GPSL2C, , 30
+setSmoothingInterval, GPSL5, , 30
+setSmoothingInterval, GLOL1CA, , 30
+setSmoothingInterval, GLOL2P, , 30
+setSmoothingInterval, GLOL2CA, , 30
+setSmoothingInterval, GLOL3, , 30
+setSmoothingInterval, GALL1BC, , 30
+setSmoothingInterval, GALE6BC, , 30
+setSmoothingInterval, GALE5a, , 30
+setSmoothingInterval, GALE5b, , 30
+setSmoothingInterval, GALE5, , 30
+setSmoothingInterval, GEOL1, , 30
+setSmoothingInterval, GEOL5, , 30
+setSmoothingInterval, BDSB1I, , 30
+setSmoothingInterval, BDSB2I, , 30
+setSmoothingInterval, BDSB3I, , 30
+setSmoothingInterval, BDSB1C, , 30
+setSmoothingInterval, BDSB2a, , 30
+setSmoothingInterval, BDSB2b, , 30
+setSmoothingInterval, QZSL1CA, , 30
+setSmoothingInterval, QZSL2C, , 30
+setSmoothingInterval, QZSL5, , 30
+setSmoothingInterval, QZSL1CB, , 30
+setSmoothingInterval, NAVICL5, , 30
 setCN0Mask, GPSL1CA, 32
 setCN0Mask, Reserved1, 32
 setCN0Mask, Reserved2, 32
