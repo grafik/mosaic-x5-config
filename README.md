@@ -4,6 +4,7 @@ Onocoy Mountpoint: [SVKBRAZAL1](https://console.onocoy.com/explorer/info/SVKBRAZ
 
 | Version    | Firmware | Onocoy quality score | Avg RMS | Note |Config |
 | -------- | -------- | ------- | ------- | ------- | ------- |
+| - | 4.14.10.1 | TBD | TBD | Jef239 config from [GNSS.STORE](https://gnss.store/) | [config](https://github.com/grafik/mosaic-x5-config/commit/6c230fc4a6bc1dcbfb92080a6fb53cb773c0c4f2) |
 | v5 | 4.14.10.1 | 0.9766 | 0.1083 | Jef239 config from [GNSS.STORE](https://gnss.store/) | [config](https://github.com/grafik/mosaic-x5-config/commit/b9ce142aa5f264f0f2f2a4322342f5cf6daa80fe) |
 | v4  | 4.14.10.1 | 0.9766 | 1.6348 | Jef239 config from [GNSS.STORE](https://gnss.store/) | [config](https://github.com/grafik/mosaic-x5-config/commit/4320b64a7918cfc7099241f342e8b0f60e9b5061) |
 | v3  | 4.14.10.1 | 0.970 | - | Jef239 config from [GNSS.STORE](https://gnss.store/) | [config](https://github.com/grafik/mosaic-x5-config/commit/6999605c1270fde3816aea01be7fde8c21da3daa) |
