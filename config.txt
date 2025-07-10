@@ -65,6 +65,7 @@ setSmoothingInterval, QZSL2C, , 30
 setSmoothingInterval, QZSL5, , 30
 setSmoothingInterval, QZSL1CB, , 30
 setSmoothingInterval, NAVICL5, , 30
+setElevationMask, Tracking, 1
 setCN0Mask, GPSL1CA, 32
 setCN0Mask, Reserved1, 32
 setCN0Mask, Reserved2, 32
